@@ -9,6 +9,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1531851082033107923}
+  - component: {fileID: 2435128423000335291}
+  - component: {fileID: -6219455720562966174}
+  - component: {fileID: 7224592279257013013}
   m_Layer: 0
   m_Name: Mon Beau Cube JB
   m_TagString: Untagged
@@ -32,6 +35,49 @@ Transform:
   - {fileID: 8935991386162777189}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2435128423000335291
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 791812667354792161}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5f6b0e2be14487498b2845eab879b67, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_firstName: "Jo\xEBlle"
+  m_lastName: Bierna
+  m_portfolioUrl: https://joelle-bierna.carrd.co/
+  m_githubUrl: https://github.com/JoBierna/MonBeauCubePackage.git
+  m_linkedinUrl: https://www.linkedin.com/in/joelle-bierna/
+--- !u!114 &-6219455720562966174
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 791812667354792161}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 982766e3044ddb147a0d138e93e5638e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_guid: 8175c215-069e-4497-adfb-1766a3292612
+--- !u!114 &7224592279257013013
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 791812667354792161}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd5a90e922b18454486c7cca6c899e7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_cubeRoot: {fileID: 1531851082033107923}
 --- !u!1 &1267832605053341381
 GameObject:
   m_ObjectHideFlags: 0
