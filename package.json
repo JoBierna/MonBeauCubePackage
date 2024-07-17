@@ -1,0 +1,17 @@
+{
+  "name": "be.joellebierna.monbeaucube",
+  "version": "0.0.1",
+  "displayName": "Mon beau cube",
+  "description": "Un package avec un magnifique cube",
+  "unity": "2020.3",
+  "unityRelease": "0f1",
+  "documentationUrl": "https://yourcompany.com/yourpackage/documentation",
+  "changelogUrl": "https://yourcompany.com/yourpackage/changelog",
+  "licensesUrl": "https://yourcompany.com/yourpackage/licenses",
+  "author": {
+    "name": "Joëlle Bierna",
+    "email": "yourname@yourcompany.com",
+    "url": "https://yourcompany.com/"
+  }
+
+}
